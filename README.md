@@ -1,11 +1,7 @@
 # CODSOFT INTERNSHIP
-# Task 1
-## Calculator
-# Task 2
-## Password Generator
-# Task 3
-## To Do List
-# Task 4
-## Rock Paper Scissor
-# Task 5
-## Contact Book
+# Tasks
+1.Calculator <br>
+2.Password Generator <br>
+3.To Do List <br>
+4.Rock Paper Scissor <br>
+5.Contact Book <br>
